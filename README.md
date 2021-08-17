@@ -1,4 +1,6 @@
 # StockCare
+### Team Member:
+0816033 簡伃婕、0816072 林子鈞、0816086 黃立鈞、0816026 許傅聲
 ## 使用須知
 1. 請先執行backend中的程式獲取資料再將資料匯入mySQL並與frontend串接
 2. 專案詳述與其他功能詳述請參閱Project.pdf或[HackMD Link](https:////hackmd.io/@libao3128/r1nHMrUjO)
